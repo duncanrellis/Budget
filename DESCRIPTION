@@ -1,0 +1,12 @@
+Package: Budget
+Title: Budget Dashboard
+Version: 0.0.0.9000
+Authors@R: person("Duncan", "Ellis", email = "duncanrellis@gmail.com", role = c("aut", "cre"))
+Description: Contains back and front end routines in support of a home budget and savings calculator
+Depends: R (>= 3.3.3)
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports:
+  dplyr (>= 0.7.4)
+RoxygenNote: 6.1.1
